@@ -3,4 +3,7 @@ Official repository for the Qiskit Fall Fest extension event at Lancaster Univer
 
 # Timetable
 
-![image](https://github.com/RedHatParichay/qiskit-lancasterleipzig-2023/assets/115642529/8869acad-1ef5-46c3-9408-adf9a9f06e7c)
+![image](https://github.com/RedHatParichay/qiskit-lancasterleipzig-2023/assets/115642529/facea505-40e6-491b-a7cb-b0fac7e90c23)
+
+
+
