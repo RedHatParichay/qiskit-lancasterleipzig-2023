@@ -10,7 +10,7 @@ We are excited to announce that Lancaster University Leipzig is hosting an exten
 
 # Join us!
 
-Fill out this [form]([https://link-url-here.org](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=03139cc49dcc47a6be4538c0f2171a45&id=Ec2bnHqXnE6poLxzQJAWSsvXxfttPlhOpCSlHvwwSIRUMUNHVE43QVk1Nkg3M0RYRUpKRFpWWDFFTC4u&topview=Preview)https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=03139cc49dcc47a6be4538c0f2171a45&id=Ec2bnHqXnE6poLxzQJAWSsvXxfttPlhOpCSlHvwwSIRUMUNHVE43QVk1Nkg3M0RYRUpKRFpWWDFFTC4u&topview=Preview).
+Fill out this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=Ec2bnHqXnE6poLxzQJAWSsvXxfttPlhOpCSlHvwwSIRUMUNHVE43QVk1Nkg3M0RYRUpKRFpWWDFFTC4u).
 
 
 
