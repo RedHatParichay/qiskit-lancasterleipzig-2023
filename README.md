@@ -16,7 +16,7 @@ Fill out this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=Ec2bnHq
 
 # Kipu Quantum
 
-Come and meet the founder of Kipu Quantum! [Kipu Quantum](https://kipu-quantum.com/) is a German quantum computing startup based in Karlsruhe and Berlin. What makes Kipu unique is their focus on application and hardware-specific quantum algorithms that are packaged into software products. 
+Come and meet the founder of [Kipu Quantum](https://kipu-quantum.com/)! This is a German quantum computing startup based in Karlsruhe and Berlin. What makes Kipu unique is their focus on application and hardware-specific quantum algorithms that are packaged into software products. 
 
 ![image](https://github.com/RedHatParichay/qiskit-lancasterleipzig-2023/assets/115642529/e2d230a6-eb30-41ad-8bca-a688745f0142)
 
