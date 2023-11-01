@@ -4,7 +4,7 @@ We are excited to announce that Lancaster University Leipzig is one of the 2 ins
 
 # Timetable
 
-![Diseño sin título](https://github.com/RedHatParichay/qiskit-lancasterleipzig-2023/assets/115642529/0ad49e27-2cff-488b-95d3-9a8cb93f60d4)
+![Agenda](https://github.com/RedHatParichay/qiskit-lancasterleipzig-2023/assets/115642529/e5198c38-2bf5-4065-a5d2-407fd3318d01)
 
 # Location
 
