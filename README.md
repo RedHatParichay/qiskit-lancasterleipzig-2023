@@ -8,6 +8,13 @@ We are excited to announce that Lancaster University Leipzig is one of the 2 ins
 
 # Poster
 
+# Kipu Quantum
+
+[Kipu Quantum](https://kipu-quantum.com/) is a German quantum computing startup based in Karlsruhe and Berlin. What makes Kipu unique is their focus on application and hardware-specific quantum algorithms that are packaged into software products. 
+
+![image](https://github.com/RedHatParichay/qiskit-lancasterleipzig-2023/assets/115642529/e2d230a6-eb30-41ad-8bca-a688745f0142)
+
+
 # Timetable
 
 ![Diseño sin título](https://github.com/RedHatParichay/qiskit-lancasterleipzig-2023/assets/115642529/0ad49e27-2cff-488b-95d3-9a8cb93f60d4)
