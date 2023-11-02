@@ -16,6 +16,8 @@ Fill out this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=Ec2bnHq
 
 # Kipu Quantum
 
+![image](https://github.com/RedHatParichay/qiskit-lancasterleipzig-2023/assets/115642529/e2d230a6-eb30-41ad-8bca-a688745f0142)
+
 Come and meet one of the co-founders of [Kipu Quantum](https://kipu-quantum.com/)! Dr Enrique Solano. Kipu Quantum is a German quantum computing startup based in Karlsruhe and Berlin. What makes Kipu unique is its focus on application and hardware-specific quantum algorithms that are packaged into software products. 
 
 # Dr Enrique Solano 
@@ -25,7 +27,7 @@ He is a very experienced individual in leading international research groups and
 # Dr Farina Riaz
 
 
-![image](https://github.com/RedHatParichay/qiskit-lancasterleipzig-2023/assets/115642529/e2d230a6-eb30-41ad-8bca-a688745f0142)
+
 
 
 
