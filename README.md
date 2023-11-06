@@ -25,7 +25,7 @@ He is a very experienced individual in leading international research groups and
 
 
 # Dr Farina Riaz
-She is currently a research scholar at the University of Southern Queensland working closely with CSIRO Australia, working on Artificial Intelligence using Quantum technology. She is also an IBM Quantum Researcher Program Member. 
+She is an accomplished research scholar, completing her PhD at the University of Southern Queensland. She is currently a Research fellow working closely with CSIRO Australia, working on Artificial Intelligence Security using Quantum technology. She is also an IBM Quantum Research Program Member. 
 
 
 
