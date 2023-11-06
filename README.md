@@ -25,7 +25,10 @@ He is a very experienced individual in leading international research groups and
 
 
 # Dr Farina Riaz
-She is an accomplished research scholar, completing her PhD at the University of Southern Queensland. She is currently a Research fellow working closely with CSIRO Australia, working on Artificial Intelligence Security using Quantum technology. She is also an IBM Quantum Research Program Member. 
+She is an accomplished research scholar, completing her collaborative PhD in Quantum Artificial Intelligence with CSIRO(Commonwealth Scientific Industrial and Research Organisation) and the University of Southern Queensland. She has completed an internship at the CERN Lab in Switzerland, focusing on Grid Automation during her Master's in Computer Software Engineering. She has made significant contributions in her field by having 11 journal publications under her belt. She is an experienced lecturer having taught for 4 years at various universities in Dubai. She was also honoured as the runner-up for the People's Choice Award in Quantum Australia 2023 and is also an IBM Quantum Research Program Member. 
+
+She is currently a Research fellow working closely with CSIRO Australia, working on Machine Learning and Artificial Intelligence Security using Quantum technology. In her research, she has created ground-breaking models that have surpassed the effectiveness of Classical Machine Learning Methods. 
+
 
 
 
