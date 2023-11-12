@@ -18,7 +18,7 @@ Fill out this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=Ec2bnHq
 
 ![image](https://github.com/RedHatParichay/qiskit-lancasterleipzig-2023/assets/115642529/e2d230a6-eb30-41ad-8bca-a688745f0142)
 
-Come and meet one of the co-founders of [Kipu Quantum](https://kipu-quantum.com/)! Dr Enrique Solano. Kipu Quantum is a German quantum computing startup based in Karlsruhe and Berlin. What makes Kipu unique is its focus on application and hardware-specific quantum algorithms that are packaged into software products. 
+Come and meet one of the co-founders of [Kipu Quantum](https://kipu-quantum.com/), Dr Enrique Solano! Kipu Quantum is a German quantum computing startup based in Karlsruhe and Berlin. What makes Kipu unique is its focus on application and hardware-specific quantum algorithms that are packaged into software products. 
 
 # Dr Enrique Solano 
 He is a very experienced individual in leading international research groups and centres in academic institutions as well as disruptive and productive innovation teams in deep tech startups. He has also founded another startup based in Spain, [Quanvia](https://www.quanvia.com/), operating in Bilbao, Madrid, and Munich, with strategic partners in Sao Paulo, Johannesburg, and Shanghai. Quanvia provides useful quantum solutions now, not in the possible future of others. It empowers the merging of quantum computing and artificial intelligence. 
